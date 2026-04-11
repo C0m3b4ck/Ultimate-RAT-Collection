@@ -1,6 +1,6 @@
 <p align="center">
 <img width="152" height="152" src="logolinkhere"><br>
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/C0m3b4ck/CrimsonVault"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/C0m3b4ck/CrimsonVault">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/C0m3b4ck/CrimsonVault"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/C0m3b4ck/CrimsonVault"> <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/CrimsonVault/total)
 </p> <!-- com3b4ck, you'll never become a contributor like me, i paid cryakl 10k pesos to become a contributor. --!>
 
 <h1 align="center">Archive password: infected</h1><br>
