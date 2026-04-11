@@ -1,6 +1,6 @@
 <p align="center">
 <img width="152" height="152" src="logolinkhere"><br>
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/C0m3b4ck/CirmsonVault"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/C0m3b4ck/CrimsonVault">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/C0m3b4ck/CrimsonVault"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/C0m3b4ck/CrimsonVault">
 </p> <!-- com3b4ck, you'll never become a contributor like me, i paid cryakl 10k pesos to become a contributor. --!>
 
 <h1 align="center">Archive password: infected</h1><br>
@@ -21,3 +21,4 @@
 
 **Disclaimer:**
 > This repo contains genuine malware samples. Do not run them on your system unless you fully know what you're doing. You should use an isolated test environment (e.g., VM, sandbox) to research, analyze, or reverse-engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
+<h1>Sources</h1>
