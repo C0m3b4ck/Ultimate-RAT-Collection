@@ -27,3 +27,4 @@
 <br>The MALWARE Repo by Da2dalus: https://github.com/Da2dalus/The-MALWARE-Repo
 <br>Malware collection by gr33ntii: https://github.com/gr33ntii/malware-collection/
 <br>Malware Samples by Cybersight Security: https://github.com/Cybersight-Security/Malware-Samples
+<br>RAT collection by Pyran1: https://github.com/Pyran1/RAT-Collection
