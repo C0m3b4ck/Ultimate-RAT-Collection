@@ -21,4 +21,8 @@
 **Disclaimer:**
 > This repo contains genuine malware samples. Do not run them on your system unless you fully know what you're doing. You should use an isolated test environment (e.g., VM, sandbox) to research, analyze, or reverse-engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
 <h1>Sources</h1>
-<a href="https://github.com/Cryakl/Ultimate-RAT-collection"><h2>Ultimate-RAT-collection by Cryakl </h2></a>
+Ultimate-RAT-collection by Cryakl: https://github.com/Cryakl/Ultimate-RAT-Collection
+Ultimate-Stealer-Collection by DNClub: https://github.com/DNClub/Ultimate-Stealer-Collection
+Malware Collection Part 2 by Zusyaku: https://github.com/Zusyaku/Malware-Collection-Part-2
+The MALWARE Repo by Da2dalus: https://github.com/Da2dalus/The-MALWARE-Repo
+Malware collection by gr33ntii: https://github.com/gr33ntii/malware-collection/
