@@ -16,10 +16,12 @@
 > Some much larger samples are split into several parts.  
 > Please use [7-Zip](https://www.7-zip.org/download.html) to extract these split archives without issues.
 
-<h1></h1>
+
 
 **Disclaimer:**
 > This repo contains genuine malware samples. Do not run them on your system unless you fully know what you're doing. You should use an isolated test environment (e.g., VM, sandbox) to research, analyze, or reverse-engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
+<h1>Navigation</h1>
+<h2>
 <h1>Sources</h1>
 <br>Ultimate-RAT-collection by Cryakl: https://github.com/Cryakl/Ultimate-RAT-Collection
 <br>Ultimate-Stealer-Collection by DNClub: https://github.com/DNClub/Ultimate-Stealer-Collection
